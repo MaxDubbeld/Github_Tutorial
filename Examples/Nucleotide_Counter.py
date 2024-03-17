@@ -2,7 +2,7 @@
 ## Set filenames! ##
 ####################
 
-location = "Location of input/output file"
+location = "Location of input/output file. Dus"
 filename = "nucleotide_file.txt"
 outputname = "nucleotide_output.txt"
 
